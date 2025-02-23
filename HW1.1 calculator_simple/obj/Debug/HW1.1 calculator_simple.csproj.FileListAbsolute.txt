@@ -1,0 +1,7 @@
+D:\大学\大二下\学习\软件构造基础\Projects\HW1.1 calculator_simple\bin\Debug\HW1.1 calculator_simple.exe.config
+D:\大学\大二下\学习\软件构造基础\Projects\HW1.1 calculator_simple\bin\Debug\HW1.1 calculator_simple.exe
+D:\大学\大二下\学习\软件构造基础\Projects\HW1.1 calculator_simple\bin\Debug\HW1.1 calculator_simple.pdb
+D:\大学\大二下\学习\软件构造基础\Projects\HW1.1 calculator_simple\obj\Debug\HW1.1 calculator_simple.csproj.AssemblyReference.cache
+D:\大学\大二下\学习\软件构造基础\Projects\HW1.1 calculator_simple\obj\Debug\HW1.1 calculator_simple.csproj.CoreCompileInputs.cache
+D:\大学\大二下\学习\软件构造基础\Projects\HW1.1 calculator_simple\obj\Debug\HW1.1 calculator_simple.exe
+D:\大学\大二下\学习\软件构造基础\Projects\HW1.1 calculator_simple\obj\Debug\HW1.1 calculator_simple.pdb

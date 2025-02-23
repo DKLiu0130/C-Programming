@@ -1,0 +1,11 @@
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\bin\Debug\ConsoleApp2.exe
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\bin\Debug\ConsoleApp2.pdb
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\bin\Debug\ConsoleApp2.exe.config
+D:\大学\大二下\学习\软件构造基础\Projects\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date

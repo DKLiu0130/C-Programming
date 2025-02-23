@@ -1,0 +1,14 @@
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\bin\Debug\net8.0\C# programming practice.exe
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\bin\Debug\net8.0\C# programming practice.deps.json
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\bin\Debug\net8.0\C# programming practice.runtimeconfig.json
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\bin\Debug\net8.0\C# programming practice.dll
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\bin\Debug\net8.0\C# programming practice.pdb
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\C# programming practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\C# programming practice.AssemblyInfoInputs.cache
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\C# programming practice.AssemblyInfo.cs
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\C# programming practice.csproj.CoreCompileInputs.cache
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\C# programming practice.dll
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\refint\C# programming practice.dll
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\C# programming practice.pdb
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\C# programming practice.genruntimeconfig.cache
+D:\大学\大二下\学习\软件构造基础\Projects\C# programming practice\obj\Debug\net8.0\ref\C# programming practice.dll

@@ -1,0 +1,10 @@
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\大学\大二下\学习\软件构造基础\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

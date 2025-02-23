@@ -1,0 +1,1 @@
+- ConsoleApp1 and ConsoleApp2 are used to show function calls across files and projects

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5927\u5B66\\\u5927\u4E8C\u4E0B\\\u5B66\u4E60\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Projects\\C# programming practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDDCA35-97A7-4966-A157-D9C36299B07F}|..\\HW1.1 calculator_simple\\HW1.1 calculator_simple.csproj|d:\\\u5927\u5B66\\\u5927\u4E8C\u4E0B\\\u5B66\u4E60\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\projects\\hw1.1 calculator_simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4A0C98-E389-4CAF-B15B-2AAF1D3AC168}|..\\WindowsFormsApp1\\HW1.2 calculator.csproj|d:\\\u5927\u5B66\\\u5927\u4E8C\u4E0B\\\u5B66\u4E60\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\projects\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5927\u5B66\\\u5927\u4E8C\u4E0B\\\u5B66\u4E60\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Projects\\HW1.1 calculator_simple\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HW1.1 calculator_simple\\Program.cs",
+              "ToolTip": "D:\\\u5927\u5B66\\\u5927\u4E8C\u4E0B\\\u5B66\u4E60\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Projects\\HW1.1 calculator_simple\\Program.cs",
+              "RelativeToolTip": "..\\HW1.1 calculator_simple\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:25:30.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5927\u5B66\\\u5927\u4E8C\u4E0B\\\u5B66\u4E60\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Projects\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\\u5927\u5B66\\\u5927\u4E8C\u4E0B\\\u5B66\u4E60\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Projects\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:24:30.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
